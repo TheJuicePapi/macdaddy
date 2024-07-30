@@ -7,7 +7,7 @@ if [ "$EUID" -ne 0 ]; then
 fi
 
 # Install python3, macchanger, iproute2
-echo "Installing pip and Pillow..."
+echo "Installing python3, macchanger, and iproute2..."
 sudo apt-get update
 sudo apt-get install -y python3
 sudo apt-get install -y macchanger
