@@ -18,4 +18,4 @@ ln -s "$(pwd)/macdaddy.py" /usr/local/bin/macdaddy
 
 clear
 
-echo "Installation complete. You can now run 'macdaddy' from any directory."
+echo "Installation complete. Launch a new terminal and you'll now be able to run 'macdaddy' from any directory."
